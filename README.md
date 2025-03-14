@@ -1,14 +1,14 @@
-# Ultimate Sports Hub
+# Coding Website Project
 
-Welcome to **Ultimate Sports Hub**, your one-stop site for everything related to sports! Whether you're into basketball, baseball, football, or just love staying up-to-date on the latest sports news, we’ve got you covered.
+Welcome to **my website about that is all about sports*, my and maybe soon your.. one-stop site for everything related to sports! Whether you're into basketball, baseball, football, or just love staying up-to-date on the latest sports news.
 
 ## Features
 - 📰 **Latest Sports News**: Get the most recent sports updates.
 - 📊 **Stats**: From (sports)-reference website that we can use the stats from various sports.
 - 🎥 **Sports Analysis Videos**: Watch in-depth breakdowns of games and players.
-- 🏀 **Basketball**: Kobe Bryant's analysis, NBA stats, and news.
-- ⚾ **Baseball**: Dorktown analysis, MLB player stats, and news.
-- 🏈 **Football**: NFL breakdowns, player stats, and highlights.
+- 🏀 **Basketball**: Such as.. Kobe Bryant's analysis, NBA stats, and news.
+- ⚾ **Baseball**: Such as.. Dorktown analysis, MLB player stats, and news.
+- 🏈 **Football**: Such as.. NFL breakdowns, player stats, and highlights.
 
 ## Technologies Used
 - HTML5
