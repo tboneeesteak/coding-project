@@ -1,6 +1,6 @@
 // Fun alert when the page loads
 window.onload = function() {
-    alert("Welcome to your Ultimate Sports Hub! 🏀⚾🏈");
+    alert("Welcome!);
 };
 
 // Example function to simulate loading news and stats
