@@ -4,7 +4,7 @@ Welcome to **Ultimate Sports Hub**, your one-stop site for everything related to
 
 ## Features
 - 📰 **Latest Sports News**: Get the most recent sports updates.
-- 📊 **Live Stats**: Real-time player stats from various sports.
+- 📊 **Stats**: From (sports)-reference website that we can use the stats from various sports.
 - 🎥 **Sports Analysis Videos**: Watch in-depth breakdowns of games and players.
 - 🏀 **Basketball**: Kobe Bryant's analysis, NBA stats, and news.
 - ⚾ **Baseball**: Dorktown analysis, MLB player stats, and news.
@@ -24,4 +24,8 @@ Welcome to **Ultimate Sports Hub**, your one-stop site for everything related to
 - 🏀 [Kobe Bryant's 'The Golden Democracy' - YouTube](https://www.youtube.com/watch?v=huvYYRorB_Q)
 - ⚾ [Dorktown - Foolish Baseball - YouTube](https://www.youtube.com/watch?v=jutBrr_1fn4)
 - 🏈 [Football Breakdown - YouTube](https://www.youtube.com/watch?v=wJLNQ83vm2g)
+- 📊 [Basketball-Reference](https://www.basketball-reference.com/)
+-    [Pro Football-Reference](https://www.pro-football-reference.com/)
+-    [Baseball-Reference](https://www.baseball-reference.com/)
+-    [Hockey-Reference](https://www.hockey-reference.com/)
 
