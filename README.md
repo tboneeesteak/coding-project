@@ -24,8 +24,9 @@ Welcome to **Ultimate Sports Hub**, your one-stop site for everything related to
 - 🏀 [Kobe Bryant's 'The Golden Democracy' - YouTube](https://www.youtube.com/watch?v=huvYYRorB_Q)
 - ⚾ [Dorktown - Foolish Baseball - YouTube](https://www.youtube.com/watch?v=jutBrr_1fn4)
 - 🏈 [Football Breakdown - YouTube](https://www.youtube.com/watch?v=wJLNQ83vm2g)
-- 📊 [Basketball-Reference](https://www.basketball-reference.com/)
--    [Pro Football-Reference](https://www.pro-football-reference.com/)
--    [Baseball-Reference](https://www.baseball-reference.com/)
--    [Hockey-Reference](https://www.hockey-reference.com/)
+- 📊 To the sports-reference pages'
+- [Basketball-Reference](https://www.basketball-reference.com/)
+- [Pro Football-Reference](https://www.pro-football-reference.com/)
+- [Baseball-Reference](https://www.baseball-reference.com/)
+- [Hockey-Reference](https://www.hockey-reference.com/)
 
